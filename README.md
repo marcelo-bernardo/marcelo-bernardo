@@ -11,7 +11,7 @@
 - 💡 Interesses:  Desenvolvimento Web, Data Science, Inteligência Artificial
 - 📫 Como me encontrar: https://www.linkedin.com/in/marcelo-bernardo-de-miranda/
 
-## 🔧 <h2>Tecnologias e Ferramentas</h2>
+## <h2>🔧Tecnologias e Ferramentas</h2>
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
@@ -21,7 +21,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
 
-### <h1>📚Projetos</h1> <hr>
+### <h2>📚Projetos</h2> <hr>
 
 Confira a lista dos projetos em destaque abaixo:
 - <a href="https://github.com/marcelo-bernardo/proj_minimercado">Minimercado</a>
