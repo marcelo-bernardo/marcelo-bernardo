@@ -21,7 +21,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
 
-### 📚 <h1>Projetos</h1> <hr>
+### <h1>📚Projetos</h1> <hr>
 
 Confira a lista dos projetos em destaque abaixo:
 - <a href="https://github.com/marcelo-bernardo/proj_minimercado">Minimercado</a>
