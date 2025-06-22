@@ -3,9 +3,8 @@
 <p>Bem Vindo ao meu perdil do GitHub! 🚀</p>
 <p>Sou apaixonado por tecnologia, programação e por resolver problemas com código</p>
 
-##<h2>🧑‍💻Sobre Mim</h2>
+## <h2>🧑‍💻Sobre Mim</h2>
 - 🎓 Formação: Cursando Tecnologia da Informação na Universidade Federal do Mato Grosso do Sul e PUC-RS
-- 
 - 💼 Atualmente trabalhando com: Análise de Dados
 - 🌱 Estudando: Atualizando conhecimentos todos os dias em relação a frameworks.
 - 💡 Interesses:  Desenvolvimento Web, Data Science, Inteligência Artificial
