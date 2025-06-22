@@ -24,7 +24,6 @@
 ### 📚 <h1>Projetos</h1> <hr>
 
 Confira a lista dos projetos em destaque abaixo:
-<img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-html-file-document-icon-png-image_4166007.jpg" width="100" heitght="120">
 - <a href="https://github.com/marcelo-bernardo/proj_minimercado">Minimercado</a>
 - <a href="www.netflix.com.br">Link</a>
 
